@@ -1,4 +1,6 @@
 import React from 'react';
+import CharacterSelector from '../components/CharacterSelector.js';
+import CharacterDetail from '../components/CharacterDetail.js';
 
 class CharacterContainer extends React.Component {
   constructor(props) {
